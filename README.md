@@ -26,15 +26,16 @@ Bienvenu dans ZENTROX-BOT-MD, un bot WhatsApp Multi-Device puissant, rapide et s
 📥 Télécharge le ZIP ici :
 👉 https://www.mediafire.com/file/6ofivq4r7am9em5/ZENTROX-BOT-MD-V1.1.zip/file
 
-
 ---
+## 📌 Fork the Repository
 
-🔱 Fork du Projet
+Click the button below to fork the ZENTROX-BOT-MD repository to your GitHub account:
 
-Avant de commencer, clique ici pour créer ton propre fork :
-👉 FORK ZENTROX-MD
-(mets ici ton lien GitHub une fois le repo créé)
-
+<div align="center">
+  <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD-V1.1/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  </a>
+</div>
 
 ---
 
