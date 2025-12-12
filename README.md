@@ -113,11 +113,17 @@ Katabump Dashboard :
 
 💻 3. Déploiement via Termux
 
-git clone https://github.com/TON-NOM/ZENTROX-MD
-cd ZENTROX-MD
-npm install
-node index.js
+# 1. Cloner le dépôt
+git clone https://github.com/STIVE-DEVX/ZENTROX-BOT-MD-V1.1.git
 
+# 2. Aller dans le dossier du bot
+cd ZENTROX-BOT-MD-V1.1
+
+# 3. Installer les dépendances
+npm install
+
+# 4. Lancer le bot
+node index.js
 
 ---
 
